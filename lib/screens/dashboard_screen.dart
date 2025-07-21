@@ -85,7 +85,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
       floatingActionButton: Column(
         mainAxisAlignment: MainAxisAlignment.end,
         children: [
-          // 🔴 Red button for Reports
+          //Red button for Reports
           Theme(
             data: Theme.of(context).copyWith(
               floatingActionButtonTheme: FloatingActionButtonThemeData(
@@ -100,7 +100,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
             ),
           ),
           SizedBox(height: 10),
-          // 🟢 Green button for Create User
+          //Green button for Create User
           Theme(
             data: Theme.of(context).copyWith(
               floatingActionButtonTheme: FloatingActionButtonThemeData(
