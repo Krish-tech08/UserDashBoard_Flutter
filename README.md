@@ -12,7 +12,7 @@ A modern Flutter-based user dashboard app that displays user information fetched
 
 ## 🖼️ Screenshots
 
-| Dashboard View | User Cards | Data Load |
+| Dashboard View | Report Screen | Create User Screen |
 |----------------|------------|-----------|
 | ![Dashboard](Screen_shot/Screenshot%202025-07-21%20230622.png) | ![Cards](Screen_shot/Screenshot%202025-07-21%20230640.png) | ![Load](Screen_shot/Screenshot%202025-07-21%20230703.png) |
 
