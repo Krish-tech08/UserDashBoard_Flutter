@@ -1,16 +1,32 @@
-# user_dash
+# UserDashBoard_Flutter 🚀
 
-A new Flutter project.
+A modern Flutter-based user dashboard app that displays user information fetched from APIs. The app features clean UI, asynchronous HTTP data loading, and modular components for easy scaling.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 📡 Fetches and displays user data from a REST API
+- 🧱 Modular UI using custom widgets (`UserCard`)
+- ⚡ Responsive layout with stateful widgets
+- 🔁 Pull-to-refresh support (optional)
+- 🌐 HTTP integration using `http` package
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- REST API (JSONPlaceholder or similar)
+- http package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+> *(Add your app screenshots here)*  
+> You can upload images in the repo and link them like:  
+> `![Screenshot](screenshots/home.png)`
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Krish-tech08/UserDashBoard_Flutter.git
+cd UserDashBoard_Flutter
